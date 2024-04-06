@@ -204,7 +204,7 @@ class Servant extends Thread {
 }
 
 //main class
-public class Assignment3p1 {
+public class Assignment3P1 {
 	public static void main(String[] args) 
 	{
 
